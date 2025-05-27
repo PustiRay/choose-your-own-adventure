@@ -19,6 +19,6 @@ Do you:
 
 Before you can decide, the guard grabs your arm — and your adventure truly begins.
 
-- [Go back to the medieval era](medieval.md)
+- [Go back to the medieval era](https://github.com/PustiRay/choose-your-own-adventure/tree/pusti)
 - [Jump ahead to a futuristic world](future.md)
 - [Travel to the day you were born](birth_day.md)
