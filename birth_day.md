@@ -17,5 +17,5 @@ You watch, heart full, as your past begins. Not as a memory, but as a witness.
 And as the pocket watch starts to hum again, gently pulling you back to your own time, you realize something: before you could change the world, it had already changed for you—on this very day.
 
 - [Go back to the medieval era](https://github.com/PustiRay/choose-your-own-adventure/tree/pusti)
-- [Jump ahead to a futuristic world](future.md)
-- [Travel to the day you were born](birth_day.md)
+- [Jump ahead to a futuristic world](https://github.com/PustiRay/choose-your-own-adventure/blob/khushi/future.md)
+- [Travel to the day you were born](https://github.com/PustiRay/choose-your-own-adventure/blob/aman/birth_day.md)
