@@ -17,4 +17,4 @@ You return to the present, forever changed by what you saw.
 **THE END**
 - [Go back to the medieval era](https://github.com/PustiRay/choose-your-own-adventure/blob/pusti/medieval.md)
  - [Jump ahead to a futuristic world](https://github.com/PustiRay/choose-your-own-adventure/blob/khushi/future.md)
- - [Travel to the day you were born](https://github.com/PustiRay/choose-your-own-adventure/blob/pusti/medieval.md)
+ - [Travel to the day you were born](https://github.com/PustiRay/choose-your-own-adventure/blob/aman/birth_day.md)
