@@ -17,6 +17,6 @@ You grip the pocket watch tightly. For a moment, you wonder what else lies ahead
 
  - [Go back to the medieval era](https://github.com/PustiRay/choose-your-own-adventure/blob/pusti/medieval.md)
  - [Jump ahead to a futuristic world](https://github.com/PustiRay/choose-your-own-adventure/blob/khushi/future.md)
- - [Travel to the day you were born](https://github.com/PustiRay/choose-your-own-adventure/blob/pusti/medieval.md)
+ - [Travel to the day you were born](https://github.com/PustiRay/choose-your-own-adventure/blob/main/birth_day.md)
  
 
