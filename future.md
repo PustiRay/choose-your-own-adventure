@@ -15,3 +15,8 @@ You take it all in—artificial gravity fields, robotic trees that clean the air
 
 You grip the pocket watch tightly. For a moment, you wonder what else lies ahead... but for now, you simply watch, amazed, as the future unfolds before your eyes.
 
+ - [Go back to the medieval era](https://github.com/PustiRay/choose-your-own-adventure/blob/pusti/medieval.md)
+ - [Jump ahead to a futuristic world](https://github.com/PustiRay/choose-your-own-adventure/blob/khushi/future.md)
+ - [Travel to the day you were born](https://github.com/PustiRay/choose-your-own-adventure/blob/pusti/medieval.md)
+ 
+
